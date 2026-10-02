@@ -451,31 +451,14 @@ Never infer or manually guess software, CUDA, driver, or model-revision values.
 
 
 
-> **CAP-MF: Empirically Grounded Interaction-Aware Scheduling for Energy-Efficient LLM Inference**
-
-If the paper is accepted or made publicly available, add the final citation here.
-
-```bibtex
-@inproceedings{capmf2027,
-  title     = {CAP-MF: Empirically Grounded Interaction-Aware Scheduling for Energy-Efficient LLM Inference},
-  author    = {[Add authors after publication]},
-  booktitle = {HPE Tech Con 2027},
-  year      = {2027}
-}
-```
-
-
-
 ## Related work and data
-
-Please cite the original sources when using the corresponding technologies or datasets:
 
 - Woosuk Kwon et al., **Efficient Memory Management for Large Language Model Serving with PagedAttention**, SOSP 2023.
 - Yuxin Wang et al., **BurstGPT: A Real-World Workload Dataset to Optimize LLM Serving Systems**, KDD 2025.
 - Martin J. Wainwright and Michael I. Jordan, **Graphical Models, Exponential Families, and Variational Inference**, 2008.
 - Agrim Bari, Parikshit Hegde, and Gustavo de Veciana, **Optimal Scheduling Algorithms for LLM Inference: Theory and Practice**, 2025.
 
-The repository should link to official publisher or project pages in the final public version.
+
 
 ## AI-use disclosure
 
