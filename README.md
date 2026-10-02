@@ -449,9 +449,7 @@ Never infer or manually guess software, CUDA, driver, or model-revision values.
 - The current objective is energy-dominated and should be normalized before broad multi-objective claims.
 - N=32 uses replicated logical profiles unless additional physical replicas are deployed.
 
-## Publication
 
-This repository supports the Tech Con 2027 submission:
 
 > **CAP-MF: Empirically Grounded Interaction-Aware Scheduling for Energy-Efficient LLM Inference**
 
@@ -466,7 +464,7 @@ If the paper is accepted or made publicly available, add the final citation here
 }
 ```
 
-Do not publish a citation with placeholder author values.
+
 
 ## Related work and data
 
@@ -493,34 +491,3 @@ The repository maintainers are responsible for:
 
 AI assistance should not be concealed or represented as independent authorship.
 
-## Security and publication review
-
-Before making this repository public:
-
-1. Remove credentials, tokens, internal URLs, employee information, and proprietary data.
-2. Confirm that the model and dataset licenses permit the intended use.
-3. Confirm that all source files are approved for external publication.
-4. Review generated logs for internal paths and environment metadata.
-5. Complete any required HPE open-source, legal, security, and publication approvals.
-6. Add a repository license only after confirming the appropriate license with the project owner or legal reviewer.
-
-## License
-
-No license is asserted by this draft README.
-
-Before publishing, add the approved repository license and ensure that third-party components and datasets retain their original licenses and attribution requirements.
-
-## Contributing
-
-This is currently a research prototype. If contributions are opened later, add:
-
-- Contribution guidelines
-- Coding and testing standards
-- Experiment reproducibility requirements
-- Issue and pull-request templates
-- Security reporting instructions
-- Developer Certificate of Origin or contributor agreement requirements, if applicable
-
-## Contact
-
-For a public repository, use a project mailing list or approved public contact channel. Avoid publishing personal or internal contact information without approval.
